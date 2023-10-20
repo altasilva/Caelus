@@ -3,7 +3,7 @@
 
 <div>
   <h2>About this project</h2>
-  This project originated as a doctoral thesis in the Modeling and Technology for Environmental Resources in Water Resources at the Federal Institute of Fluminense at the end of 2020. This software uses the Python programming language, PyQt library, artificial intelligence, and optimization methods to predict parameters of the intense rainfall equation.
+  This project originated as a doctoral thesis in the Modeling and Technology for Environmental applied in Water Resources at the Federal Institute of Fluminense at the end of 2020. This software uses the Python programming language, PyQt library, artificial intelligence, and optimization methods to predict parameters of the intense rainfall equation.
 </div>
 
 <div>
