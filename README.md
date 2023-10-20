@@ -1,2 +1,2 @@
 # Caelus
-<img src="Caelus_mural.png" />
+<img src="mural_Caelus.png" />
